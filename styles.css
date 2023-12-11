@@ -1,0 +1,39 @@
+body {
+  background-color: #f5d3ab;
+}
+
+header {
+  font-size: 30px;
+  width: 400px;
+  height: 128px;
+  margin-left: 135px;
+  margin-top: 70px;
+}
+
+h6 {
+  font-size: 16px;
+}
+
+.box1 {
+  width: 770px;
+  height: 448px;
+  margin-top: 120px;
+  margin-left: 135px;
+  background-color: #9b9b9b;
+  color: white;
+}
+
+.box1-text {
+  padding-top: 130px;
+  padding-left: 40px;
+}
+
+.nine {
+  padding-left: 650px;
+  padding-top: 60px;
+  font-size: 24px;
+}
+
+h2 {
+  font-size: 46px;
+}
